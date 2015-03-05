@@ -1,0 +1,13 @@
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\bin\Debug\Splash Form.exe
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\bin\Debug\Splash Form.pdb
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\bin\Debug\Splash Form.xml
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\Splash_Form.SPLASH.resources
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\Splash_Form.LOGIN_FORM.resources
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\Splash_Form._3MAIN_FORM.resources
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\Splash_Form.Resources.resources
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\Splash Form.exe
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\Splash Form.xml
+C:\Users\Notebook\AppData\Local\Temporary Projects\Splash Form\obj\x86\Debug\Splash Form.pdb

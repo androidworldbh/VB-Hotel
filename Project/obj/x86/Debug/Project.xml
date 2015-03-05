@@ -1,0 +1,144 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Project
+</name>
+</assembly>
+<members>
+<member name="T:Splash_Form.NewCustomerDataSet.CustomerTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Splash_Form.NewCustomerDataSet.CustomerTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Splash_Form.NewCustomerDataSet.CustomerTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Splash_Form.NewCustomerDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Splash_Form.NewCustomerDataSetTableAdapters.CustomerTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Splash_Form.NewCustomerDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Splash_Form.NewCustomerDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Splash_Form.NewCustomerDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Splash_Form.NewCustomerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Splash_Form.NewCustomerDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Splash_Form.NewCustomerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Splash_Form.NewCustomerDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Splash_Form.NewCustomerDataSetTableAdapters.TableAdapterManager.UpdateAll(Splash_Form.NewCustomerDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Splash_Form.NewCustomerDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Splash_Form.NewCustomerDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Splash_Form.NewCustomerDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Splash_Form.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Splash_Form.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Splash_Form.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Splash_Form.GymDataSet.Gym2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Splash_Form.GymDataSet.GymDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Splash_Form.GymDataSet.Gym2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Splash_Form.GymDataSet.GymRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Splash_Form.GymDataSet.Gym2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Splash_Form.GymDataSet.GymRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Splash_Form.GymDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Splash_Form.GymDataSetTableAdapters.Gym2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Splash_Form.GymDataSetTableAdapters.GymTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Splash_Form.GymDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Splash_Form.GymDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Splash_Form.GymDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Splash_Form.GymDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Splash_Form.GymDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Splash_Form.GymDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Splash_Form.GymDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Splash_Form.GymDataSetTableAdapters.TableAdapterManager.UpdateAll(Splash_Form.GymDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Splash_Form.GymDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Splash_Form.GymDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Splash_Form.GymDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
